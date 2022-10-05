@@ -8,4 +8,4 @@ Walkthrough project for Code Institute for Django - Full Stack Frameworks.
 
 ## Demo
 
-View the live demo [here](https://daphne-django-todo-app.herokuapp.com/).
+Due to changes on Heroku, there is no longer a demo link available.
